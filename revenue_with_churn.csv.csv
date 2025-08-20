@@ -1,0 +1,7 @@
+Month,Checkins,Revenue,Revenue_Loss,Danger_Zone,Decline_Rate_%,Churn_Warning
+2025-03,500,500,0,True,-0.0,False
+2025-04,470,470,30,True,6.0,False
+2025-05,430,430,70,True,8.5,False
+2025-06,385,385,115,True,10.5,True
+2025-07,345,345,155,True,10.4,True
+2025-08,305,305,195,True,11.6,True
